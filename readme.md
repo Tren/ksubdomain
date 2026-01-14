@@ -5,15 +5,6 @@ V1.0
 
 V1.0 修改版
 添加 fofa.info 支持，需要在目录下添加config.json
-内容为
-{
-  "fofa": {
-    "enabled": true,
-    "email": "XXX",
-    "key": "XXX",
-    "size": 10000
-  }
-}
 
 ## 📖 使用说明
 # 使用免费数据源 + 内置字典
